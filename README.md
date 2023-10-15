@@ -1,2 +1,3 @@
-# Bruno Files
- Meu primeiro repositorio
+# Bruno Arquivos
+ Meu primeiro repositório!
+ Criando meu primeiro repositório.
